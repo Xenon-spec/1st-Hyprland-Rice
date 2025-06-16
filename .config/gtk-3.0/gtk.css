@@ -1,0 +1,53 @@
+.view, .sidebar {
+    background-color: #1a1a1a;
+    color:  rgba(199, 190, 151, 0.5)
+}
+
+.window:not(.swaync-window) {
+    background-color: #1a1a1a;
+}
+
+.view:selected,
+.sidebar:selected,
+.sidebar row:selected {
+    background-color: #3a3a3a;  /* or any color that contrasts with sidebar */
+    color: rgb(199, 190, 151);
+}
+
+
+toolbar {
+    background-color: #1a1a1a;
+    color: #1a1a1a;
+}
+
+headerbar {
+    background-color: #1a1a1a;
+    color: #1a1a1a;
+}
+
+headerbar button {
+    background-color: #1a1a1a;
+    color: #1a1a1a;
+}
+
+.header-bar, headerbar {
+    background-color: #1a1a1a;
+    color: #1a1a1a;
+}
+
+menubar {
+    background-color: #1a1a1a;
+}
+
+menubar menuitem {
+    background-color: #1a1a1a;
+}
+
+menu {
+    background-color: #1a1a1a;
+}
+
+menu menuitem {
+    background-color: #1a1a1a;
+}
+

@@ -1,0 +1,10 @@
+# ~/.config/wofi/config
+
+width=600
+height=350
+show=drun
+allow_markup=true
+prompt=Search:
+normal_window=true
+allow_images=true
+term=foot
